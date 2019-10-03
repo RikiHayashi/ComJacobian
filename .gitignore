@@ -1,0 +1,58 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Editor
+*~
+*.swp
+
+# Other executable files
+*.exe
+*.dll
+*.db
+
+# V-rep
+*.ttt
+
+# visual studio debug & intermediate files
+*.pdb
+*.idb
+*.exp
+*.obj
+*.vcproj
+*.ilk
+*.lib
+*.dep
+*.suo
+*.user
+*.sln
+*.depends
+*.manifest
+*.res
+BuildLog.htm
+
+# cmake
+*.cmake
+*.log
+
+# settings
+*.ini
+
+#directory
+build/
+system/
+
